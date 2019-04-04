@@ -1,0 +1,3 @@
+[console_scripts]
+pqi = PQI.pqi:main
+

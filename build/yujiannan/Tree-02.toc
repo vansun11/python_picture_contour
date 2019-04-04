@@ -1,0 +1,43 @@
+('D:\\OneDrive - business-cn\\beihang '
+ 'university\\YANERXIA\\other\\python_picture_contour\\build\\yujiannan\\setuptools-39.1.0-py3.6.egg',
+ None,
+ {'*.pyd', '*.pyc', '*.py', 'EGG-INFO', '*.pyw', '*.cp36-win_amd64.pyd'},
+ 'DATA',
+ [('setuptools\\cli-32.exe',
+   'D:\\OneDrive - business-cn\\beihang '
+   'university\\YANERXIA\\other\\python_picture_contour\\build\\yujiannan\\setuptools-39.1.0-py3.6.egg\\setuptools\\cli-32.exe',
+   'DATA'),
+  ('setuptools\\cli-64.exe',
+   'D:\\OneDrive - business-cn\\beihang '
+   'university\\YANERXIA\\other\\python_picture_contour\\build\\yujiannan\\setuptools-39.1.0-py3.6.egg\\setuptools\\cli-64.exe',
+   'DATA'),
+  ('setuptools\\cli.exe',
+   'D:\\OneDrive - business-cn\\beihang '
+   'university\\YANERXIA\\other\\python_picture_contour\\build\\yujiannan\\setuptools-39.1.0-py3.6.egg\\setuptools\\cli.exe',
+   'DATA'),
+  ('setuptools\\gui-32.exe',
+   'D:\\OneDrive - business-cn\\beihang '
+   'university\\YANERXIA\\other\\python_picture_contour\\build\\yujiannan\\setuptools-39.1.0-py3.6.egg\\setuptools\\gui-32.exe',
+   'DATA'),
+  ('setuptools\\gui-64.exe',
+   'D:\\OneDrive - business-cn\\beihang '
+   'university\\YANERXIA\\other\\python_picture_contour\\build\\yujiannan\\setuptools-39.1.0-py3.6.egg\\setuptools\\gui-64.exe',
+   'DATA'),
+  ('setuptools\\gui.exe',
+   'D:\\OneDrive - business-cn\\beihang '
+   'university\\YANERXIA\\other\\python_picture_contour\\build\\yujiannan\\setuptools-39.1.0-py3.6.egg\\setuptools\\gui.exe',
+   'DATA'),
+  ('setuptools\\script (dev).tmpl',
+   'D:\\OneDrive - business-cn\\beihang '
+   'university\\YANERXIA\\other\\python_picture_contour\\build\\yujiannan\\setuptools-39.1.0-py3.6.egg\\setuptools\\script '
+   '(dev).tmpl',
+   'DATA'),
+  ('setuptools\\script.tmpl',
+   'D:\\OneDrive - business-cn\\beihang '
+   'university\\YANERXIA\\other\\python_picture_contour\\build\\yujiannan\\setuptools-39.1.0-py3.6.egg\\setuptools\\script.tmpl',
+   'DATA'),
+  ('setuptools\\command\\launcher manifest.xml',
+   'D:\\OneDrive - business-cn\\beihang '
+   'university\\YANERXIA\\other\\python_picture_contour\\build\\yujiannan\\setuptools-39.1.0-py3.6.egg\\setuptools\\command\\launcher '
+   'manifest.xml',
+   'DATA')])
